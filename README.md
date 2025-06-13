@@ -48,3 +48,5 @@ Say thanks to Matt on [Twitter](https://twitter.com/mattpocockuk) or by joining 
 Alias: `pnpm run e`
 
 Open a prompt for choosing which exercise you'd like to run.
+
+https://duckduckgo.com/?kn=1&kav=1&kp=-2&kad=ar_EG&kl=tr-tr&kdcm=6&kdcs=1
