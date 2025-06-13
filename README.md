@@ -1,4 +1,4 @@
-<a href="https://totaltypescript.com/"><img src="https://res.cloudinary.com/total-typescript/image/upload/v1714636660/pro-essentials-github-cover_gw2bah.png" alt="Total TypeScript by Matt Pocock" /></a>
+ href="https://totaltypescript.com/"><img src="https://res.cloudinary.com/total-typescript/image/upload/v1714636660/pro-essentials-github-cover_gw2bah.png" alt="Total TypeScript by Matt Pocock" /></a>
 
 ## Quickstart
 
